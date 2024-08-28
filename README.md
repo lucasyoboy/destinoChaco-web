@@ -1,3 +1,3 @@
-You can preview the production build with `npm run preview`.
+Un Vieja asegurado con `DESTINO CHACO`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+> Applicacion y pagina web en estado de desarollo todavia.
